@@ -1,0 +1,14 @@
+.Pin {
+  display: block;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.9) url('../icons/bridge_icon.svg') no-repeat center;
+  background-size: 80%;
+  box-shadow: 1px 2px 1px rgba(0, 0, 0, .1);
+}
+
+.Pin.active {
+  background-color: rgba(184, 255, 205, 0.9);
+}

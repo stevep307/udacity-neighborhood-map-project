@@ -1,0 +1,46 @@
+.LocationInfo {
+  color: #eee;
+  height: calc(100vh - 42px - 60px);
+  overflow: auto;
+}
+
+.LocationInfoBackBtn {
+  display: block;
+  font-size: 24px;
+  padding: 8px 8px 8px 40px;
+  background: url('../icons/back_icon.svg') no-repeat 8px;
+  background-size: 24px;
+  color: #eee;
+  text-decoration: none;
+}
+.LocationInfoBackBtn:hover {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.LocationInfoTitle {
+  padding: 16px 8px;
+  margin: 0;
+}
+
+.LocationInfoDescription {
+  color: #ccc;
+  padding: 4px;
+  font-size: 13px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+  margin: 0 4px 8px;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+.LocationInfoDescription a {
+  color: #eee;
+}
+
+.LocationInfoPhotos {
+  padding: 4px 0;
+}
+
+.LocationInfoPhoto {
+  width: 100%;
+}

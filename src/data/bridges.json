@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1664630,
+    "title": "Bolsheokhtinsky Bridge",
+    "location": {
+      "lon": 30.4011037,
+      "lat": 59.9426177
+    }
+  },
+  {
+    "id": 51472,
+    "title": "Palace Bridge",
+    "location": {
+      "lon": 30.3080727,
+      "lat": 59.9411806
+    }
+  },
+  {
+    "id": 2092964,
+    "title": "Troitsky Bridge",
+    "location": {
+      "lon": 30.3274691,
+      "lat": 59.9487462
+    }
+  },
+  {
+    "id": 17336,
+    "title": "Aleksandra Nevskogo bridge",
+    "location": {
+      "lon": 30.3956481,
+      "lat": 59.9257321
+    }
+  },
+  {
+    "id": 159587,
+    "title": "Kantemirovsky Bridge",
+    "location": {
+      "lon": 30.3218578,
+      "lat": 59.978499
+    }
+  },
+  {
+    "id": 122282,
+    "title": "Tuchkov Bridge",
+    "location": {
+      "lon": 30.2853796,
+      "lat": 59.9489207
+    }
+  },
+  {
+    "id": 17339,
+    "title": "Liteyny Bridge",
+    "location": {
+      "lon": 30.3494752,
+      "lat": 59.9518333
+    }
+  },
+  {
+    "id": 2285864,
+    "title": "The Great Petrovsky Bridge",
+    "location": {
+      "lon": 30.2548214,
+      "lat": 59.9649309
+    }
+  },
+  {
+    "id": 1485179,
+    "title": "Kamennostrovsky Bridge",
+    "location": {
+      "lon": 30.3014396,
+      "lat": 59.9774985
+    }
+  },
+  {
+    "id": 158617,
+    "title": "Grenadersky Bridge",
+    "location": {
+      "lon": 30.3346011,
+      "lat": 59.9679642
+    }
+  },
+  {
+    "id": 159610,
+    "title": "Sampsoniyevsky Bridge",
+    "location": {
+      "lon": 30.3372739,
+      "lat": 59.957931
+    }
+  },
+  {
+    "id": 1776790,
+    "title": "Krestovskiy Bridge",
+    "location": {
+      "lon": 30.2803588,
+      "lat": 59.967034
+    }
+  },
+  {
+    "id": 1484767,
+    "title": "Ushakovsky bridge",
+    "location": {
+      "lon": 30.3002634,
+      "lat": 59.9825891
+    }
+  },
+  {
+    "id": 409596,
+    "title": "Birzhevoy bridge",
+    "location": {
+      "lon": 30.3033976,
+      "lat": 59.9462705
+    }
+  },
+  {
+    "id": 12472,
+    "title": "The Blue Bridge -- the widest in the world",
+    "location": {
+      "lon": 30.3088438,
+      "lat": 59.9316882
+    }
+  },
+  {
+    "id": 3642879,
+    "title": "Zhdanovsky Bridge",
+    "location": {
+      "lon": 30.2865036,
+      "lat": 59.9535719
+    }
+  },
+  {
+    "id": 2283802,
+    "title": "Kazansky Bridge",
+    "location": {
+      "lon": 30.3263451,
+      "lat": 59.9351138
+    }
+  },
+  {
+    "id": 40655,
+    "title": "Potseluev bridge",
+    "location": {
+      "lon": 30.2949801,
+      "lat": 59.9282375
+    }
+  },
+  {
+    "id": 45059,
+    "title": "Anichkov bridge",
+    "location": {
+      "lon": 30.3433468,
+      "lat": 59.933266
+    }
+  },
+  {
+    "id": 2286315,
+    "title": "Green Bridge",
+    "location": {
+      "lon": 30.3195994,
+      "lat": 59.9361729
+    }
+  },
+  {
+    "id": 92773,
+    "title": "Gorstkin bridge",
+    "location": {
+      "lon": 30.3239015,
+      "lat": 59.924013
+    }
+  },
+  {
+    "id": 2286322,
+    "title": "Red Bridge",
+    "location": {
+      "lon": 30.3152462,
+      "lat": 59.9330105
+    }
+  },
+  {
+    "id": 11168290,
+    "title": "Karetny bridge",
+    "location": {
+      "lon": 30.3598098,
+      "lat": 59.9140403
+    }
+  },
+  {
+    "id": 1774350,
+    "title": "Bridge of Four Lions",
+    "location": {
+      "lon": 30.3014426,
+      "lat": 59.9268965
+    }
+  },
+  {
+    "id": 76379,
+    "title": "Pochtamtskiy (Post Office) Bridge",
+    "location": {
+      "lon": 30.3007995,
+      "lat": 59.9305078
+    }
+  },
+  {
+    "id": 128601,
+    "title": "Bank bridge",
+    "location": {
+      "lon": 30.3250326,
+      "lat": 59.9321392
+    }
+  },
+  {
+    "id": 1776631,
+    "title": "The Shipmakers Bridge",
+    "location": {
+      "lon": 30.2165718,
+      "lat": 59.9499012
+    }
+  },
+  {
+    "id": 10194459,
+    "title": "Lakhtinsky bridge",
+    "location": {
+      "lon": 30.1788666,
+      "lat": 59.9893592
+    }
+  },
+  {
+    "id": 11458457,
+    "title": "Ruins of old bridge",
+    "location": {
+      "lon": 30.1368873,
+      "lat": 60.1202
+    }
+  },
+  {
+    "id": 2396662,
+    "title": "Bridge Ruins",
+    "location": {
+      "lon": 29.7569471,
+      "lat": 59.9081653
+    }
+  }
+]
