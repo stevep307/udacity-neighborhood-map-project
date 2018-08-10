@@ -18,7 +18,9 @@ class App extends Component {
   }
 
   onSearch = (searchString) => {
+    // we save search string for our controlled input
     this.setState({searchString});
+    // and save the search result to state
     searchBridges(searchString).then((bridges) => this.setState({bridges}));
   };
 
@@ -27,8 +29,9 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <Route component={({location}) =>
-          location.hash !== '#sidebar-hidden' && <Locations bridges={bridges} onSearch={this.onSearch} searchString={searchString}/>
+        <Route render={({location}) =>
+          location.hash !== '#sidebar-hidden' && <Locations bridges={bridges} onSearch={this.onSearch} searchString={searchString}
+                                                            id='locationList' role='menu' aria-label='List of bridges'/>
         }/>
         <Map bridges={bridges} />
       </div>

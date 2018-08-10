@@ -3,8 +3,10 @@ import PropTypes from 'prop-types';
 
 class SearchField extends Component {
   componentDidMount() {
+    // it's good to set focus on search field on the project start as main control
     this.searchInput.focus();
   }
+  // we make controlled input component and store it's state high level state
   onInputChange = (event) => {
     let { onSearch } = this.props;
     onSearch(event.target.value);

@@ -5,6 +5,7 @@
 * [About this project](#about-this-project)
 * [Implementation details](#implementation-details)
 * [How to run application](#how-to-run-application)
+* [Run application with service worker enabled](#run-application-with-service-worker-enabled)
 * [Local data API](#local-data-api)
 * [Using third-party APIs](#using-third-party-apis)
 * [Contributing](#contributing)
@@ -25,6 +26,13 @@ To get started developing right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
+
+## Run application with service worker enabled
+
+* build application in production mode with  `npm run build`
+* start to serve your application with `serve -s build`
+
+You can find your application with enabled service workers on `localhost:5000`
 
 ## Local data API
 
